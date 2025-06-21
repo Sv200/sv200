@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sv200&label=Profile%20views&color=0e75b6&style=flat" alt="sv200" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS ,JAVASCRIPT**
+- 🌱 I’m currently learning **MongoDB,Express JS ,React JS ,Node JS**
 
 - 📫 How to reach me **shobhitk2002@gmail.com**
 
